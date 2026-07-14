@@ -20,7 +20,7 @@ const PaymentInstructions = () => {
 
   const amount = "6,700";
   const accountNumber = "2087933684";
-  const bankName = "KUDA";
+  const bankName = "KUDA MFB";
   const accountName = "IKUDABO OLUWAFERANMI";
   const referenceId = `REF${Date.now()}`;
 
