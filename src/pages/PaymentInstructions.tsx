@@ -18,10 +18,10 @@ const PaymentInstructions = () => {
   const [loading, setLoading] = useState(false);
   const [showFailure, setShowFailure] = useState(false);
 
-  const amount = "9,700";
-  const accountNumber = "9017554887";
-  const bankName = "SMART CASH";
-  const accountName = "KIKELOMO OLUWASANMI";
+  const amount = "6,700";
+  const accountNumber = "2087933684";
+  const bankName = "KUDA";
+  const accountName = "IKUDABO OLUWAFERANMI";
   const referenceId = `REF${Date.now()}`;
 
   const copyToClipboard = (text: string, field: string) => {
